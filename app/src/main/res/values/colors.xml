@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="Primary">#0560FA</color>
+    <color name="Secondary">#EC8000</color>
+
+    <color name="Gray_1">#CFCFCF</color>
+    <color name="Gray_2">#A7A7A7</color>
+    <color name="Gray_3">#3A3A3A</color>
+
+    <color name="Info">#2F80ED</color>
+    <color name="Error">#ED3A3A</color>
+    <color name="Warning">#EBBC2E</color>
+    <color name="Success">#35B369</color>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OECH</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_real_time_tracking">RealTimeTrackingActivity</string>
+</resources>
